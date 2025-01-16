@@ -1,6 +1,8 @@
 
 # Hi there! This is JamSue👋
- <font face="楷体" color="blue">😄welcome to my GitHub page ! This is *JamSue*， a student in **CQUPT** and I'm always on the road of exploring the interesting world ! Let's share something fun together~~ </font>
+ <font face="楷体" color="blue">😄welcome to my GitHub page ! 
+ </font>
+ <!--This is *JamSue*， a student in **CQUPT** and I'm always on the road of exploring the interesting world ! Let's share something fun together~~ 
 
 
 ### 🌱 I’m currently working on 🌱 
